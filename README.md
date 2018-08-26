@@ -1,4 +1,4 @@
-# hello-world
+# Progress Notes for E534
 
 This will be my notes about progress in I523-E534 : Big Data Applications and Big Data Applications Analytics
 
