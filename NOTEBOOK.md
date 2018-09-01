@@ -13,6 +13,5 @@
 * worked to gain familiarity with github
 
 *TODO 
-Take Plagarism Certification Test
-Setup VM - Linux
+Take Plagarism Certification Test, Setup VM - Linux
 
