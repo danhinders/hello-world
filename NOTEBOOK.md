@@ -15,3 +15,7 @@
 *TODO 
 Take Plagarism Certification Test, Setup VM - Linux
 
+
+compare to other GUI streamers 
+
+NIFI
